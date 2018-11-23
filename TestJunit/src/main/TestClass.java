@@ -9,7 +9,7 @@ public class TestClass {
 	
 	public int divideNumbers(int a, int b){
 		
-		return 0;
+		return a/b;
 	}
 
 }

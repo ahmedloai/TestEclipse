@@ -12,7 +12,7 @@ import main.TestClass;
 
 class testTestClass {
 	@Test
-	void failtest() {
+	void divideByZeroIsNotPossible() {
 		fail("this will always fails");
 	}
 
